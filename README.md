@@ -18,9 +18,9 @@
 
 - 👀 I’m interested in learning new things for/and solving problems
 - 📫 How to reach me **nnson.dev@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/son-nguyen98/](https://www.linkedin.com/in/son-nguyen98/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/nnson98/](https://www.linkedin.com/in/nnson98/)
 
-📍 **Nha Trang, Vietnam** | ⏰ **3+ years experience**
+📍 **Nha Trang, Vietnam** | ⏰ **4+ years experience**
 
 ## 🛠️ **02. Languages and Tools**
 
@@ -86,14 +86,14 @@
 
 | 💼 **Experience** |  🚀 **Projects**  |
 | :---------------: | :---------------: |
-|   **3+ Years**    | **20+ Delivered** |
+|   **4+ Years**    | **20+ Delivered** |
 
 </div>
 
 ### 🎯 **Key Accomplishments**
 
 - 🌍 **Delivered solutions for international clients** e-commerce, training platform
-- 🎨 **Built and optimized high-performance systems** including APIs handling 10M+ records
+- 🎨 **Built and optimized high-performance systems** including APIs handling 1M+ records
 - ⚡ **Reduced deployment time by 70%** with CI/CD implementation
 
 ## 🤝 **05. Let's Connect**
@@ -110,6 +110,6 @@ _I'm currently accepting new projects and would love to discuss how we can bring
   </a>
 </p>
 
-### 🌟 **[View My Portfolio](#)**
+### 🌟 **[View My Portfolio](https://nnson58th2.github.io/)**
 
 </div>
